@@ -1,0 +1,17 @@
+.newsList{
+	width: 85%;
+	margin: 0 auto;
+	background: #f6f6f6;
+}
+
+.newsList-more{
+	margin-left: 40px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+
+.newsList-moreLink{
+	font-size: 10pt;
+	color: #333;
+	text-decoration: none;
+}
