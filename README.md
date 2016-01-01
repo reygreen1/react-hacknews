@@ -7,3 +7,5 @@ As we know, the latest version of react is [0.14.3](https://facebook.github.io/r
 I have upgraded the version of th react and corrected the usecase in javascript file.
 
 See more detail? Use this origin repo link: [HN front page in React](https://mking.github.io/react-hn).
+
+.
